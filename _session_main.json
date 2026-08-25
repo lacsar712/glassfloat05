@@ -1,0 +1,12 @@
+﻿{
+    "tag":  "main",
+    "session_id":  "6568c070-88d4-4b78-a958-2b91a9bd38eb",
+    "jsonl":  "C:\\Users\\lacsa\\.claude\\projects\\D--go-data-claude-run-bug720-glassfloat05-main\\6568c070-88d4-4b78-a958-2b91a9bd38eb.jsonl",
+    "exit_code":  {
+                      "value":  0,
+                      "PSComputerName":  "localhost",
+                      "RunspaceId":  "56b930aa-bf70-48c0-82ca-9c62e04c4e08",
+                      "PSShowComputerName":  false
+                  },
+    "out":  "D:\\go-data-claude-run\\bug720-glassfloat05-main\\_claude_main.out.txt"
+}

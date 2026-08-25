@@ -20,5 +20,6 @@ func (b *NonceBook) CheckAndRemember(token string) bool {
 	if _, ok := b.seen[token]; ok {
 		return false
 	}
+	b.seen[token] = struct{}{}
 	return true
 }
